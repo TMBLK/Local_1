@@ -10,3 +10,4 @@ local2343
 nostop
 
 cho to 
+gde tam
