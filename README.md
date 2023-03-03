@@ -5,3 +5,6 @@ local2343
 hp omen
 
 nein
+vs
+ram
+gpu
